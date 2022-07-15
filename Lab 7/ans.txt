@@ -1,0 +1,5 @@
+Explain one limitation of RSA protocol attacks.
+
+Ans:
+
+RSA protocol attacks are deterministic such that the encryption scheme yields always the same x for each instance of x = enc_pubkey(m) for constant m and public key (pubkey).
